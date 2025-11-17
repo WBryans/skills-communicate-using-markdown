@@ -4,4 +4,5 @@
 
 Trialling creation of headers for pull request
 
-![Image of County Model] (F:\Surrey\Picture2.gif)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
